@@ -29,7 +29,7 @@ The build of my laptop is as follows:
 # Not Working Items:
 * Stock BT / WIFI
 * Nvidia 1650 dGPU
-* D Card Reader
+* SD Card Reader
 
 # Overall:
 Overall this thing is a beast and dual-boots Windows 10 like a champ. 
