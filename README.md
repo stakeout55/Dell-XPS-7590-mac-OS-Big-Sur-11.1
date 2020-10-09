@@ -1,6 +1,8 @@
 # macOS-10.15.7-OC-0.6.3-XPS-7590-IPS-4K-Touch
 My working EFI for the Dell XPS 7590 with a 4K IPS touch screen!
 
+YOU MUST ADD YOUR OWN INFO UNDER PLATFORM INFO!!!
+
 Please note this EFI is based off: https://github.com/romancin/Dell-XPS-7590-OpenCore
 
 I have updated some kexts, and made some light SSDT edits to enable the touch screen and update OC to 0.6.3.
