@@ -18,18 +18,18 @@ The build of my laptop is as follows:
 | WiFi/BT: | [M.2 BCM94360NG (native)](https://www.ebay.com/itm/M-2-NGFF-Network-Card-for-Broadcom-BCM94360NG-better-than-BCM94352Z-DW1560-BT4-0/264663343680?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649) |
 
 # Things That Work:
-⋅⋅*TOUCHSCREEN 4K Display w/ Scaling
-⋅⋅*Full 2GB Graphics Acceleration
-⋅⋅*Sound / Headphone port / HDMI audio out / Mic In
-⋅⋅*ALL USB / USB-C ports
-⋅⋅*Sleep / Close-Lid & re-open
-⋅⋅*Bluetooth and Wifi (with card seen above)
-⋅⋅*Power Management (I get about 4 hours) -> I am still working on undervolting
+* TOUCHSCREEN 4K Display w/ Scaling
+* Full 2GB Graphics Acceleration
+* Sound / Headphone port / HDMI audio out / Mic In
+* ALL USB / USB-C ports
+* Sleep / Close-Lid & re-open
+* Bluetooth and Wifi (with card seen above)
+* Power Management (I get about 4 hours) -> I am still working on undervolting
 
 # Not Working Items:
-⋅⋅*Stock BT / WIFI
-⋅⋅*Nvidia 1650 dGPU
-⋅⋅*SD Card Reader
+* Stock BT / WIFI
+* Nvidia 1650 dGPU
+* D Card Reader
 
 # Overall:
 Overall this thing is a beast and dual-boots Windows 10 like a champ. 
