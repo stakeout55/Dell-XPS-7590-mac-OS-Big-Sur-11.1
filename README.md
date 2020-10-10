@@ -35,3 +35,7 @@ The build of my laptop is as follows:
 
 # Overall:
 Overall this thing is a beast and dual-boots Windows 10 like a champ. 
+
+-------------------------------------------------------------------------------------------
+# BigSur Testing
+
