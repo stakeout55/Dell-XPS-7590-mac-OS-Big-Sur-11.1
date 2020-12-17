@@ -26,16 +26,17 @@ The build of my laptop is as follows:
 * ALL USB / USB-C ports
 * Sleep / Close-Lid & re-open
 * Bluetooth and Wifi (with card seen above)
-* Power Management (I get about 4 hours) -> I am still working on undervolting
+* Power Management
+* SD Card Reader
 
 # Not Working Items:
 * Stock BT / WIFI
 * Nvidia 1650 dGPU
-* SD Card Reader
+
 
 # Overall:
 Overall this thing is a beast and dual-boots Windows 10 like a champ. 
 
 -------------------------------------------------------------------------------------------
 # BigSur Testing
-
+see release 11.1 : )
