@@ -18,8 +18,8 @@ https://github.com/jaromeyer/XPS9570-Catalina
 
 Shout out to [u/Zero00Shadow](https://www.reddit.com/user/Zero00Shadow) for his extensive testing for performance and battery, etc - results coming soon
 
-I have updated some kexts, and made some light SSDT edits to enable the touch screen and update OC to 0.6.3.
-This EFI Has been tested on 10.15.7 and testing on Big Sur Beta's will be going on soon. I will report as I go.
+I have updated some kexts, and made some light SSDT edits to enable the touch screen and update OC to 0.6.4.
+This EFI Has been tested on 10.15.5 - 11.1. I will update/report as I go.
 
 ---
 
@@ -39,18 +39,24 @@ The build of my laptop is as follows:
 # Things That Work:
 * TOUCHSCREEN 4K Display w/ Scaling
 * Full 2GB Graphics Acceleration
-* Sound / Headphone port / HDMI audio out / Mic In
+* Sound / Headphone port / / Mic In
 * ALL USB / USB-C ports
+* Webcam
 * Sleep / Close-Lid & re-open
 * Bluetooth and Wifi (with card seen above)
 * Power Management
-* SD Card Reader
+* SD Card Reader (slow speeds but it works)
+* Handoff
+* Continuity
+* AirDrop
+* HDMI out + audio (read below for hot plug issue)
 
 ---
 
 # Not Working Items:
-* Stock BT / WIFI
+* Stock BT / WIFI --> could use [OpenIntelWireless kext](https://github.com/OpenIntelWireless/itlwm) but likely won't have ability to get iServices working
 * Nvidia 1650 dGPU
+* Finger print reader (likely never will)
 
 ---
 # Buggy at times:
