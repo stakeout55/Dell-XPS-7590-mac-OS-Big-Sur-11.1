@@ -25,7 +25,7 @@ This EFI Has been tested on 10.15.7 and testing on Big Sur Beta's will be going 
 ---
 
 The build of my laptop is as follows:
-| First Header  | Second Header |
+| Part          | Name |
 | ------------- | ------------- |
 | CPU:   | Intel Core i7 9750H  |
 | iGPU:   | Intel Graphics UHD 630  |
