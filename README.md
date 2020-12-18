@@ -1,7 +1,7 @@
 # Dell XPS 7590 macOS Big Sur 11.1
 My working EFI for the Dell XPS 7590 with a 4K IPS touch screen!
 
-## Updated 12-17-2020
+#### Updated 12-17-2020
 
 ### YOU MUST ADD YOUR OWN INFO UNDER PLATFORM INFO!!!
 
