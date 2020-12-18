@@ -1,9 +1,17 @@
 # Dell XPS 7590 macOS Big Sur 11.1
 My working EFI for the Dell XPS 7590 with a 4K IPS touch screen!
 
-YOU MUST ADD YOUR OWN INFO UNDER PLATFORM INFO!!!
+## Updated 12-17-2020
 
-Please note this EFI is based off: https://github.com/romancin/Dell-XPS-7590-OpenCore
+### YOU MUST ADD YOUR OWN INFO UNDER PLATFORM INFO!!!
+
+## Sources that this EFI is based off of: 
+https://github.com/romancin/Dell-XPS-7590-OpenCore
+https://github.com/xxxzc/xps15-9570-macos
+https://dortania.github.io/OpenCore-Install-Guide/
+https://github.com/jaromeyer/XPS9570-Catalina
+
+Shout out to [u/Zero00Shadow](https://www.reddit.com/user/Zero00Shadow) for his extensive testing for performance and battery, etc - results coming soon
 
 I have updated some kexts, and made some light SSDT edits to enable the touch screen and update OC to 0.6.3.
 This EFI Has been tested on 10.15.7 and testing on Big Sur Beta's will be going on soon. I will report as I go.
