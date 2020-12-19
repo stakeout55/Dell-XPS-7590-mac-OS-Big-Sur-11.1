@@ -1,7 +1,7 @@
 # Dell XPS 7590 macOS Big Sur 11.1
 My working EFI for the Dell XPS 7590 with a 4K IPS touch screen!
 
-See [releases](https://github.com/stakeout55/Dell-XPS-7590-mac-OS-Big-Sur-11.1/releases) for the latest EFI release
+See [latest release](https://github.com/stakeout55/Dell-XPS-7590-mac-OS-Big-Sur-11.1/releases/latest) for the latest EFI release
 
 ---
 
