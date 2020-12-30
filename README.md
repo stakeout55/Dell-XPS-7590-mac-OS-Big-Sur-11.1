@@ -47,6 +47,7 @@ The build of my laptop is as follows:
    * https://www.reddit.com/r/Dell/comments/6gnfbv/easy_massive_thermal_improvements_on_dell_xps_13/
    * https://www.reddit.com/r/Dell/comments/cua4jl/dell_xps_7590_where_should_i_place_thermal_pad/
    * https://www.reddit.com/r/Dell/comments/jj26fz/taping_fins_mod_and_temp_differences_xps_15_7590/
+   * http://forum.notebookreview.com/threads/cpu-gpu-temperatures-benchmarks-xps-15-9560-kaby-lake.802345/
     * These methods feature [thermal pads](https://www.amazon.com/ARCTIC-Thermal-Efficient-Conductivity-Handling/dp/B00UYTTMNI?th=1) and/or [tape](https://www.amazon.com/Aluminum-Professional-Adhesive-3-9mil-1-Roll/dp/B08CXBPWNT/ref=sr_1_2_sspa?dchild=1&keywords=foil%2Btape%2Bheat%2Bsmall&qid=1609362425&sr=8-2-spons&smid=AEZRIMTHROAA2&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyUDUxRFJUU0FMRjFKJmVuY3J5cHRlZElkPUExMDM4ODY5S1g0N1JOVFc4WkxCJmVuY3J5cHRlZEFkSWQ9QTAyNDE1MjBLTU9ZWE5GVzUzOTQmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1) of which we will be trying a mixture.
 
 ---
