@@ -36,10 +36,9 @@ The build of my laptop is as follows:
 
 ---
 Tweaks for better performance:
- 
-More natural trackpad: 
-`<System Preferences > Trackpad > "Turn off Force Click and haptic Feedback">`
-_Coutersey of [u/Zero00Shadow](https://www.reddit.com/user/Zero00Shadow)_
+
+* More natural trackpad: _System Preferences > Trackpad > "Turn off Force Click and haptic Feedback"_
+* Coutersey of [u/Zero00Shadow](https://www.reddit.com/user/Zero00Shadow) *
 ---
 
 # Things That Work:
