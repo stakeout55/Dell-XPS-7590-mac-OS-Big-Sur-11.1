@@ -35,10 +35,12 @@ The build of my laptop is as follows:
 | WiFi/BT: | [M.2 BCM94360NG (native)](https://www.ebay.com/itm/M-2-NGFF-Network-Card-for-Broadcom-BCM94360NG-better-than-BCM94352Z-DW1560-BT4-0/264663343680?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649) |
 
 ---
-Tweaks for better performance:
+**Tweaks for better performance:
 
 * More natural trackpad: _System Preferences > Trackpad > "Turn off Force Click and haptic Feedback"_
   * Coutersey of [u/Zero00Shadow](https://www.reddit.com/user/Zero00Shadow) *
+ 
+* UnderVolting with this modified/pre-signed kext: see my repo here
 ---
 
 # Things That Work:
