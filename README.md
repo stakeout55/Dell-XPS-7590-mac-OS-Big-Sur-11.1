@@ -81,7 +81,7 @@ The build of my laptop is as follows:
     * These methods feature [thermal pads](https://www.amazon.com/ARCTIC-Thermal-Efficient-Conductivity-Handling/dp/B00UYTTMNI?th=1) and/or [tape](https://www.amazon.com/Aluminum-Professional-Adhesive-3-9mil-1-Roll/dp/B08CXBPWNT/ref=sr_1_2_sspa?dchild=1&keywords=foil%2Btape%2Bheat%2Bsmall&qid=1609362425&sr=8-2-spons&smid=AEZRIMTHROAA2&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyUDUxRFJUU0FMRjFKJmVuY3J5cHRlZElkPUExMDM4ODY5S1g0N1JOVFc4WkxCJmVuY3J5cHRlZEFkSWQ9QTAyNDE1MjBLTU9ZWE5GVzUzOTQmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1) of which we will be trying a mixture.
 
 * Sleep testing "study" that was conducted revealed only a 14% drop in battery over the course of 19 hours (would have been less without as many "check-ins"):
-![image](<blockquote class="imgur-embed-pub" lang="en" data-id="a/s4i7m6w" data-context="false" ><a href="//imgur.com/a/s4i7m6w"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
+![image]
 
 
 # Overall:
